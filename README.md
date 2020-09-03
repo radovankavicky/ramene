@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm Ramene, an accomplished [Cloud Native](https://landscape.cncf.io/) Platform Architect offering over 17 years of proven experience orchestrating the implementation, development and complete automation of enterprise grade solutions while today, my interests include fullstack development, with a obligatory heavy focus on backend engineering.
+I'm Ramene, an accomplished [Cloud Native](https://landscape.cncf.io/) Platform Architect offering over 17 years of proven experience orchestrating the implementation, development and complete automation of enterprise grade solutions while today, my interests include fullstack development, with an obligatory heavy focus on backend engineering.
  
- ##### Fact
+#### Fact
 
 > We function well in a sea of unknowns. - [Ellen Ullman](https://www.goodreads.com/quotes/614530-the-corollary-of-constant-change-is-ignorance-this-is-not)
 
