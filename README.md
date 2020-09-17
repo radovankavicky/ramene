@@ -6,7 +6,7 @@ Today, I serve also serve a Mentor Lead at re:work, out of the Chicago area to p
 
 #### Fact
 
-> We function well in a sea of unknowns. - [Ellen Ullman](https://www.goodreads.com/quotes/614530-the-corollary-of-constant-change-is-ignorance-this-is-not)
+> It’s the modularity of things at any one layer, that actually makes the system work the way that it does. - [Benjamin Bratton](https://www.youtube.com/watch?v=3c3jXPBG-NY&feature=youtu.be&t=2558)
 
 #### Languages and Tools:
 
