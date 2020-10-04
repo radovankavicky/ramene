@@ -2,8 +2,6 @@
 
 My name is Ramene Anthony, an accomplished [Cloud Native](https://landscape.cncf.io/) Platform, DevOps Engineer offering proven experience orchestrating the implementation, development and complete automation of enterprise grade solutions. I'm drawn to roles at under-appreciated companies that have remarkable potential with a culture of experimentation and where we cultivate curiosity. 
 
-Today, I serve also serve a Mentor Lead at re:work, out of the Chicago area to promote leadership, diversity and education in untapped communities.
-
 #### Fact
 
 > It’s the modularity of things at any one layer, that actually makes the system work the way that it does. - [Benjamin Bratton](https://www.youtube.com/watch?v=3c3jXPBG-NY&feature=youtu.be&t=2558)
