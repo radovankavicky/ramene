@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Ramene Anthony, an accomplished [Cloud Native](https://landscape.cncf.io/) Platform, DevOps Engineer offering proven experience orchestrating the implementation, development and complete automation of enterprise grade solutions. I'm drawn to roles at under-appreciated companies that have remarkable potential with a culture of experimentation and where we cultivate curiosity. 
+My name is Ramene Anthony, an accomplished [Cloud Native](https://landscape.cncf.io/) Platform Engineer with a focus on MLOps offering proven experience orchestrating the implementation, development and complete automation of enterprise grade solutions. I'm drawn to roles at under-appreciated companies that have remarkable potential with a culture of experimentation and where we cultivate curiosity. 
 
 #### Fact
 
